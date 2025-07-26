@@ -1,27 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="aws_robomaker_residential_Refrigerator_01">
-    <link name="link">
-      <inertial>
-        <mass>1</mass>
-      </inertial>
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_Refrigerator_01/meshes/aws_Refrigerator_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-	    <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_Refrigerator_01/meshes/aws_Refrigerator_01_visual.DAE</uri>
-          </mesh>
-        </geometry>
-      <meta> <layer> 1 </layer></meta>
-</visual>
-    </link>
-    <static>1</static>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d7e5f4a7ba1d2cf074ac91a41573e66fda6aa3d0847225f2d354aaf1560f98
+size 798

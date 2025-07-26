@@ -1,22 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="collapsed_industrial">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://collapsed_industrial/meshes/collapsed_industrial.dae</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://collapsed_industrial/meshes/collapsed_industrial.dae</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e225ddb2b23d78c53c0acb2e297400c4b879d8f9183ec2f7d6de06be27c048
+size 575

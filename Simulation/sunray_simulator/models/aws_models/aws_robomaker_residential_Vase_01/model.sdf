@@ -1,26 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="aws_robomaker_residential_Vase_01">
-    <link name="link">
-      <inertial>
-        <mass>1</mass>
-      </inertial>
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_Vase_01/meshes/aws_Vase_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-	    <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_Vase_01/meshes/aws_Vase_01_visual.DAE</uri>
-          </mesh>
-        </geometry>
-      <meta> <layer> 1 </layer></meta>
-</visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b4b512b8bade1d5f59db59c60044a6fad50b320aee44eb10b86daa5a4f99923
+size 734

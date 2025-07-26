@@ -1,34 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.5">
-  <model name="House 1">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://house_1/meshes/house_1.dae</uri>
-            <scale>1.5 1.5 1.5</scale>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://house_1/meshes/house_1.dae</uri>
-            <scale>1.5 1.5 1.5</scale>
-          </mesh>
-        </geometry>
-        <material>
-          <script>
-            <uri>model://house_1/materials/scripts</uri>
-            <uri>model://house_1/materials/textures</uri>
-            <name>House_1/Diffuse</name>
-          </script>
-          <shader type="normal_map_tangent_space">
-            <normal_map>House_1_Normal.png</normal_map>
-          </shader>
-        </material>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:801f021b550e6dd36580c3de65aac642fb412b8ff9d5e87daf6d3a35138fab34
+size 949

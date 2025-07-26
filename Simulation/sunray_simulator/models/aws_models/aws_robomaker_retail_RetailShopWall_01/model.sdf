@@ -1,29 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="aws_robomaker_retail_RetailShopWall_01">
-    <link name="link">
-      <inertial>
-        <mass>1</mass>
-      </inertial>
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_retail_RetailShopWall_01/meshes/aws_RetailShopWall_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-	    <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_retail_RetailShopWall_01/meshes/aws_RetailShopWall_01_visual.DAE</uri>
-          </mesh>
-        </geometry>
-        <meta>
-          <layer>2</layer>
-        </meta>
-      </visual>
-    </link>
-	<static>1</static>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99a9e8152f351e7cad75b1a12bad853bb23aaffa83b71035c2f1bec7e51b563
+size 817

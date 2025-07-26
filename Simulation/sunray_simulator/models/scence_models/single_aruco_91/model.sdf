@@ -1,22 +1,3 @@
-<sdf version="1.5">
-  <model name='single_aruco_91'>
-      <static>true</static>
-      <link name="single_aruco_91">
-        <pose frame=''> -3.5 1.5 0.02 0.0 0.0 0.0</pose>
-        <visual name="visual">
-            <cast_shadows>false</cast_shadows>
-        <geometry>
-          <box>
-            <size>0.48 0.48 0.01</size>
-          </box>
-        </geometry>
-        <material>
-          <script>
-            <uri>model://single_aruco/single_aruco.material</uri>
-            <name>aruco_92</name>
-          </script>
-        </material>
-        </visual>
-      </link>
-    </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:93bd9d95c986bc784fec6dba623649f97c06b80528be39b5c28fe4b6a238daea
+size 593

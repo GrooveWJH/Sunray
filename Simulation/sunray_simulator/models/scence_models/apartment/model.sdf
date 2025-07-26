@@ -1,22 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="apartment">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://apartment/meshes/apartment.dae</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://apartment/meshes/apartment.dae</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85af2c0c6b143d6960e98821a8d9bff21c843bd1a3cad002747cd16d169d08b
+size 520

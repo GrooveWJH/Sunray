@@ -1,22 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="osrf_first_office">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://osrf_first_office/meshes/osrf_first_office.dae</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://osrf_first_office/meshes/osrf_first_office.dae</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:dab43cd17e9c3d3c92f436a11f95e4414c55473a9566b286452eb03aaf8e409d
+size 560

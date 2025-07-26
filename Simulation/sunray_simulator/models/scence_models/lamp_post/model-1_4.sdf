@@ -1,22 +1,3 @@
-<?xml version="1.0"?>
-<sdf version="1.4">
-  <model name="Lamp Post">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://lamp_post/meshes/lamp_post.dae</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://lamp_post/meshes/lamp_post.dae</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd397180b01da3c1353a2e2562d8e96163ae780cc012ba6417132aa38fc7877a
+size 519

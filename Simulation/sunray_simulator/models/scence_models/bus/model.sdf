@@ -1,24 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="bus">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <scale>0.01 0.01 0.01</scale>
-            <uri>model://bus/meshes/bus.obj</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <scale>0.01 0.01 0.01</scale>
-            <uri>model://bus/meshes/bus.obj</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59ab80948d2fdcdb2b65e6843bdde800020406569e9b0e7b4af48c6c485c9d2
+size 574

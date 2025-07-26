@@ -1,22 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="collapsed_police_station">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://collapsed_police_station/meshes/collapsed_police_station.dae</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://collapsed_police_station/meshes/collapsed_police_station.dae</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a17d1ffd05a36ec871b5b90176b98ab6e27edb75d53f0b765ad481bdafd612
+size 595

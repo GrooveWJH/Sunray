@@ -1,1 +1,4 @@
 Simulation/sunray_simulator/models/ filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.DAE filter=lfs diff=lfs merge=lfs -text
+*.sdf filter=lfs diff=lfs merge=lfs -text

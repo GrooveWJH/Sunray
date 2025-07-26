@@ -1,22 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="school">
-    <static>true</static>
-    <link name="link">
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://school/meshes/school.dae</uri>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-        <geometry>
-          <mesh>
-            <uri>model://school/meshes/school.dae</uri>
-          </mesh>
-        </geometry>
-      </visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfae8ca71db16db012cbca40e6e5ced86c23611bbce283e49c63111af88375c2
+size 505

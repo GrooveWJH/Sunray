@@ -1,29 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="aws_robomaker_retail_AirConditionerC_01">
-    <link name="link">
-      <inertial>
-        <mass>50</mass>
-      </inertial>
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_retail_AirConditionerC_01/meshes/aws_AirConditionerC_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-	    <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_retail_AirConditionerC_01/meshes/aws_AirConditionerC_01_visual.DAE</uri>
-          </mesh>
-        </geometry>
-        <meta>
-          <layer>3</layer>
-        </meta>
-      </visual>
-    </link>
-    <static>1</static>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c73dabf403ef4a40a4b8d3a53a454e533b3294e88d3c8572aac5c9b2f62a911
+size 826

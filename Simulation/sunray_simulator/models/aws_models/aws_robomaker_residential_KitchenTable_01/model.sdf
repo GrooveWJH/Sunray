@@ -1,26 +1,3 @@
-<?xml version="1.0" ?>
-<sdf version="1.6">
-  <model name="aws_robomaker_residential_KitchenTable_01">
-    <link name="link">
-      <inertial>
-        <mass>12.3</mass>
-      </inertial>
-      <collision name="collision">
-        <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_KitchenTable_01/meshes/aws_KitchenTable_01_collision.DAE</uri>
-            <scale>1 1 1</scale>
-          </mesh>
-        </geometry>
-      </collision>
-      <visual name="visual">
-	    <geometry>
-          <mesh>
-            <uri>model://aws_robomaker_residential_KitchenTable_01/meshes/aws_KitchenTable_01_visual.DAE</uri>
-          </mesh>
-        </geometry>
-      <meta> <layer> 1 </layer></meta>
-</visual>
-    </link>
-  </model>
-</sdf>
+version https://git-lfs.github.com/spec/v1
+oid sha256:fba7b235381ef025b99a9853127c60211e93394d2267bbf45697d97b233fa2be
+size 777

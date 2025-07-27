@@ -2,6 +2,8 @@
 
 ## Sunray - 开源无人机仿真与实践平台
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GrooveWJH/Sunray)
+
 **Sunray**是云纵科技“**Sunray 系列科研无人机**”的配套开源代码，为无人机智能化和自主化飞行提供**全套解决方案**。
 
 - 支持对无人车、无人机的控制，提供完善的二次开发接口
